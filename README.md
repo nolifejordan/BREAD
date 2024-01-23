@@ -5,7 +5,7 @@ A kerbalized mod of ULA's Vulcan Centaur (and maybe some other concepts like Atl
 
 Dependencies:
 
-Bluedog Design Bureau (RL-10 engines)
+Bluedog Design Bureau (RL-10 engines and fairings)
 
 Waterfall (Plumes)
 
@@ -25,15 +25,15 @@ BE-4 engines made by DylanSemrau
 
 GEM-63XL solid rocket boosters
 
+Centaur V
+
+Fairing
+
 .
 
 .
 
 Future:
-
-Centaur V
-
-Fairings
 
 Adapters
 
