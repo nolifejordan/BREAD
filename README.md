@@ -3,6 +3,9 @@ Bruno's Rocket Emporium And Designs (BREAD)
 
 A kerbalized mod of ULA's Vulcan Centaur (and maybe some other concepts like Atlas Phase 2 and 3 soon)
 
+Terran decals by @galopujacy_jez
+
+
 Dependencies:
 
 Bluedog Design Bureau (RL-10 engines and fairings)
