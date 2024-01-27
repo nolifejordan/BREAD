@@ -14,6 +14,7 @@ Waterfall (Plumes)
 
 RSMP (srb plumes)
 
+Simple Adjustable Fairings (fairings)
 .
 
 .
